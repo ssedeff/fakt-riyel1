@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\bin\Debug\faktöriyel1.exe.config
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\bin\Debug\faktöriyel1.exe
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\bin\Debug\faktöriyel1.pdb
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\obj\Debug\faktöriyel1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\obj\Debug\faktöriyel1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\obj\Debug\faktöriyel1.Form1.resources
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\obj\Debug\faktöriyel1.Properties.Resources.resources
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\obj\Debug\faktöriyel1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\obj\Debug\faktöriyel1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\obj\Debug\faktöriyel1.exe
+C:\Users\User\source\repos\faktöriyel1\faktöriyel1\obj\Debug\faktöriyel1.pdb
